@@ -1,0 +1,8 @@
+== minifyJs ==
+lds <lds2012[at]gmail.com>
+
+Minify javascript file with Java.
+
+=== Feature ===
+
+1. Remove all 'console.log' , 'console.error' etc.
